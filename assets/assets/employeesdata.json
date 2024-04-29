@@ -1,0 +1,77 @@
+{
+    "data" : [
+        {
+            "user_id": "USER-000",
+            "branch_id": "BRANCH-6757",
+            "employee_id": "419866V114",
+            "job_title" : "Tech Director",
+            "firstName": "Rajendra",
+            "lastName": "Sharma",
+            "contact_phone": "50762178305",
+            "email_id": "rajendrasharma@xyz.com",
+            "roles": [
+                "controller",
+                "technician",
+                "user"
+            ]
+        },
+        {
+            "user_id": "USER-001",
+            "branch_id": "BRANCH-6757",
+            "employee_id": "446472Z685",
+            "job_title" : "Software Developer",
+            "firstName": "Prakash",
+            "lastName": "Gupta",
+            "contact_phone": "36525576339",
+            "email_id": "prakashgupta@xyz.com",
+            "roles": [
+                "technician"
+
+            ]
+        },
+        {
+            "user_id": "USER-002",
+            "branch_id": "BRANCH-6757",
+            "employee_id": "999107F593",
+            "job_title" : "Intern",
+            "firstName": "Riddhi",
+            "lastName": "Thakur",
+            "contact_phone": "57410086934",
+            "email_id": "riddhithakur@xyz.com",
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "user_id": "USER-003",
+            "branch_id": "BRANCH-6757",
+            "employee_id": "647890E478",
+            "job_title" : "System Admin",
+            "firstName": "Sachin",
+            "lastName": "Gupta",
+            "contact_phone": "18220006082",
+            "email_id": "sachingupta@xyz.com",
+            "roles": [
+                "branch_admin",
+                "user"
+            ]
+        },
+        {
+            "user_id": "USER-004",
+            "branch_id": "BRANCH-6757",
+            "employee_id": "598060G257",
+            "job_title" : "Marketing Executive",
+            "firstName": "Ritik",
+            "lastName": "Saxena",
+            "contact_phone": "23237763523",
+            "email_id": "ritiksaxena@xyz.com",
+            "roles": [
+                "user"
+            ]
+        }
+       
+    ]
+}
+
+
+

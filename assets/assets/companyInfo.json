@@ -1,0 +1,32 @@
+{
+    "company_id" : "COMPANY-001",
+    "company_name" : "Treestone Technologies Private Limited",
+    "admin_id" : "USER-005",
+    "License_id" : "LICENSE-001",
+    "branch" : [
+        {
+            "branch_id" : "BRANCH-6757",
+            "company_id" : "COMPANY-001",
+            "branch_name" : "Treestone Technologies Private Limited Gurgaon Branch",
+            "branch_address" : "DLF phase 3, Gurgaon",
+            "number_of_users" : "5",
+            "number_of_technicians" : "2",
+            "number_of_admin" : "1",
+            "number_of_controller" : "1",
+            "branch_admin_id" : "USER-003",
+            "login_method" : "employee_id"
+        },
+        {
+            "branch_id" : "BRANCH-6758",
+            "company_id" : "COMPANY-001",
+            "branch_name" : "Treestone Technologies Private Limited Noida Branch",
+            "branch_address" : "Sector 62, Noida",
+            "number_of_users" : "6",
+            "number_of_technicians" : "2",
+            "number_of_admin" : "1",
+            "number_of_controller" : "1",
+            "branch_admin_id" : "USER-005",
+            "login_method" : "employee_id"
+        }
+    ]
+}
