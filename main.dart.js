@@ -50517,7 +50517,7 @@ p=A.o(q).i("A.T?")
 p.a(j).ap=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/addJobTitle",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addJobTitle",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -50564,7 +50564,7 @@ p=A.o(q).i("A.T?")
 p.a(j).av=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getJobTitles",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getJobTitles",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -50641,7 +50641,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("DELETE",A.aW("http://localhost:8000/admin/deleteJobTitle",0,null))
+n=A.bb("DELETE",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/deleteJobTitle",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -50705,7 +50705,7 @@ h.toString
 p.a(h).aG=!0
 h=t.N
 o=A.z(["Content-Type","application/json"],h,h)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getCompanyInfo",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getCompanyInfo",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -50802,7 +50802,7 @@ p=A.o(q).i("A.T?")
 p.a(j).bg=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getBranchesInfo",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getBranchesInfo",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -50885,7 +50885,7 @@ p=A.o(q).i("A.T?")
 p.a(k).bO=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getAllBranchEmployees",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getAllBranchEmployees",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"branch_id",q.c],k,t.S)))
@@ -50951,7 +50951,7 @@ o.toString
 k.q(0,"company_id",p.a(o).b.a)
 o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/admin/addEmployee",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addEmployee",0,null))
 m.saQ(0,B.k.a8(k))
 m.r.I(0,n)
 s=2
@@ -50999,7 +50999,7 @@ p=A.o(q).i("A.T?")
 p.a(j).hK=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getCompanyControllers",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getCompanyControllers",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51067,7 +51067,7 @@ p=A.o(q).i("A.T?")
 p.a(j).ou=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getCompanyTechnicians",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getCompanyTechnicians",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51133,7 +51133,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/addNewController",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addNewController",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).b.a
@@ -51182,7 +51182,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/addNewTechnician",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addNewTechnician",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).b.a
@@ -51242,7 +51242,7 @@ k.q(0,"company_id",p.a(o).b.a)
 k.q(0,"user_id",q.c)
 o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateEmployee",0,null))
+m=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateEmployee",0,null))
 m.saQ(0,B.k.a8(k))
 m.r.I(0,n)
 s=2
@@ -51290,7 +51290,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateCompanyInfo",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateCompanyInfo",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51339,7 +51339,7 @@ p=A.o(q).i("A.T?")
 p.a(k).bg=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateBranchInfo",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateBranchInfo",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"branch_id",q.c,"branch_name",q.d,"branch_address",q.e],k,t.K)))
@@ -51385,7 +51385,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/addNewBranch",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addNewBranch",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51434,7 +51434,7 @@ p=A.o(q).i("A.T?")
 p.a(a1).cH=!0
 a1=t.N
 o=A.z(["Content-Type","application/json"],a1,a1)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getLicenseInfo",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getLicenseInfo",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51543,7 +51543,7 @@ p=A.o(q).i("A.T?")
 p.a(j).dC=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("PATCH",A.aW("http://localhost:8000/admin/companyRoles",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/companyRoles",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51592,7 +51592,7 @@ p=A.o(q).i("A.T?")
 p.a(j).aE=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getHolidays",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getHolidays",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51661,7 +51661,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g,f
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/admin/addHolidays",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addHolidays",0,null))
 l=q.a
 k=l.e
 m.saQ(0,B.k.a8(A.z(["user_id",k.a.a,"company_id",k.b.a,"day",l.a,"month",l.b,"year",l.c,"detail",l.d],o,t.K)))
@@ -51705,7 +51705,7 @@ p=A.o(q).i("A.T?")
 p.a(i).h7=!0
 i=t.N
 o=A.z(["Content-Type","application/json"],i,i)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getWorkingDays",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getWorkingDays",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51761,7 +51761,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateWorkingDays",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateWorkingDays",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51810,7 +51810,7 @@ p=A.o(q).i("A.T?")
 p.a(j).dD=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getTeams",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getTeams",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51885,7 +51885,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g,f
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:n=t.N
 m=A.z(["Content-Type","application/json"],n,n)
-l=A.bb("POST",A.aW("http://localhost:8000/admin/getTeamLeader",0,null))
+l=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getTeamLeader",0,null))
 k=q.a
 l.saQ(0,B.k.a8(A.z(["user_id",k.b.a.a,"team_id",k.a],n,t.S)))
 l.r.I(0,m)
@@ -51930,7 +51930,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/addTeam",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addTeam",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -51990,7 +51990,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/admin/getTeamMembers",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getTeamMembers",0,null))
 l=q.a
 m.saQ(0,B.k.a8(A.z(["user_id",l.b.a.a,"team_id",l.a],o,t.S)))
 m.r.I(0,n)
@@ -52037,7 +52037,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getCompanyEmployees",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getCompanyEmployees",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -52098,7 +52098,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:for(p=q.c,o=p.length,n=t.N,m=t.S,l=q.f,k=0;k<p.length;p.length===o||(0,A.a3)(p),++k)l.push(A.z(["user_id",p[k]],n,m))
 j=A.z(["Content-Type","application/json"],n,n)
-i=A.bb("POST",A.aW("http://localhost:8000/admin/addTeamMembers",0,null))
+i=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addTeamMembers",0,null))
 p=q.e
 i.saQ(0,B.k.a8(A.z(["user_id",p.a.a,"team_id",q.d,"members",l],n,t.K)))
 i.r.I(0,j)
@@ -52154,7 +52154,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("DELETE",A.aW("http://localhost:8000/admin/deleteTeamMember",0,null))
+m=A.bb("DELETE",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/deleteTeamMember",0,null))
 l=$.h.m()
 l.toString
 m.saQ(0,B.k.a8(A.z(["user_id",A.o(q).i("A.T?").a(l).a.a,"team_id",q.c,"team_member_id",q.d],o,t.S)))
@@ -52193,7 +52193,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/admin/makeTeamLeader",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/makeTeamLeader",0,null))
 l=$.h.m()
 l.toString
 m.saQ(0,B.k.a8(A.z(["user_id",A.o(q).i("A.T?").a(l).a.a,"team_id",q.c,"team_member_id",q.d],o,t.S)))
@@ -52232,7 +52232,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("DELETE",A.aW("http://localhost:8000/admin/removeTeamLeader",0,null))
+m=A.bb("DELETE",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/removeTeamLeader",0,null))
 l=$.h.m()
 l.toString
 m.saQ(0,B.k.a8(A.z(["user_id",A.o(q).i("A.T?").a(l).a.a,"team_id",q.c,"team_member_id",q.d],o,t.S)))
@@ -52281,7 +52281,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:n=t.N
 m=A.z(["Content-Type","application/json"],n,n)
-l=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateTeamName",0,null))
+l=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateTeamName",0,null))
 k=$.h.m()
 k.toString
 p=A.o(q).i("A.T?")
@@ -52338,7 +52338,7 @@ p=A.o(q).i("A.T?")
 p.a(i).fs=!0
 i=t.N
 o=A.z(["Content-Type","application/json"],i,i)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getCategories",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getCategories",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -52417,7 +52417,7 @@ j.toString
 p.a(j).eR=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getSubCategories",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getSubCategories",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -52480,7 +52480,7 @@ p=A.o(q).i("A.T?")
 p.a(j).dK=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getItemsCategories",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getItemsCategories",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -52539,7 +52539,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:m=t.N
 l=A.z(["Content-Type","application/json"],m,m)
-k=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateCategory",0,null))
+k=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateCategory",0,null))
 j=$.h.m()
 j.toString
 p=A.o(q).i("A.T?")
@@ -52609,7 +52609,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:m=t.N
 l=A.z(["Content-Type","application/json"],m,m)
-k=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateSubCategory",0,null))
+k=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateSubCategory",0,null))
 j=$.h.m()
 j.toString
 p=A.o(q).i("A.T?")
@@ -52682,7 +52682,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:m=t.N
 l=A.z(["Content-Type","application/json"],m,m)
-k=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateItem",0,null))
+k=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateItem",0,null))
 j=$.h.m()
 j.toString
 p=A.o(q).i("A.T?")
@@ -52755,7 +52755,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:m=t.N
 l=A.z(["Content-Type","application/json"],m,m)
-k=A.bb("POST",A.aW("http://localhost:8000/admin/addCategory",0,null))
+k=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addCategory",0,null))
 j=$.h.m()
 j.toString
 p=A.o(q).i("A.T?")
@@ -52825,7 +52825,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:l=t.N
 k=A.z(["Content-Type","application/json"],l,l)
-j=A.bb("POST",A.aW("http://localhost:8000/admin/addSubCategory",0,null))
+j=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addSubCategory",0,null))
 i=$.h.m()
 i.toString
 p=A.o(q).i("A.T?")
@@ -52903,7 +52903,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:l=t.N
 k=A.z(["Content-Type","application/json"],l,l)
-j=A.bb("POST",A.aW("http://localhost:8000/admin/addItem",0,null))
+j=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addItem",0,null))
 i=$.h.m()
 i.toString
 p=A.o(q).i("A.T?")
@@ -52985,7 +52985,7 @@ p=A.o(q).i("A.T?")
 p.a(j).ef=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/admin/getSLAs",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/getSLAs",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -53057,7 +53057,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/admin/addSLAConfig",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/addSLAConfig",0,null))
 m.saQ(0,B.k.a8(q.c))
 m.r.I(0,n)
 s=2
@@ -53092,7 +53092,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l,k,j,i,h
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("PATCH",A.aW("http://localhost:8000/admin/updateSLAConfig",0,null))
+m=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/admin/updateSLAConfig",0,null))
 m.saQ(0,B.k.a8(q.c))
 m.r.I(0,n)
 s=2
@@ -53131,7 +53131,7 @@ p=A.o(q).i("A.T?")
 p.a(h).a3=!0
 h=t.N
 o=A.z(["Content-Type","application/json"],h,h)
-n=A.bb("POST",A.aW("http://localhost:8000/users/login",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/users/login",0,null))
 n.saQ(0,B.k.a8(A.z(["email",q.c],h,h)))
 n.r.I(0,o)
 s=2
@@ -53201,7 +53201,7 @@ o=A.o(q).i("A.T?")
 o.a(p).bx=!0
 p=t.N
 n=A.z(["Content-Type","application/json"],p,p)
-m=A.bb("POST",A.aW("http://localhost:8000/users/getInfo",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/users/getInfo",0,null))
 l=$.h.m()
 l.toString
 m.saQ(0,B.k.a8(A.z(["user_id",o.a(l).z],p,t.S)))
@@ -53262,7 +53262,7 @@ p=A.o(q).i("A.T?")
 p.a(i).B=!0
 i=t.N
 o=A.z(["Content-Type","application/json"],i,i)
-n=A.bb("POST",A.aW("http://localhost:8000/users/isAdmin",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/users/isAdmin",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -53312,7 +53312,7 @@ p=A.o(q).i("A.T?")
 p.a(i).T=!0
 i=t.N
 o=A.z(["Content-Type","application/json"],i,i)
-n=A.bb("POST",A.aW("http://localhost:8000/users/isController",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/users/isController",0,null))
 m=$.h.m()
 m.toString
 m=p.a(m).a.a
@@ -53587,7 +53587,7 @@ t(){var s=0,r=A.G(t.z),q=this,p,o,n,m,l
 var $async$t=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/users/updateFCMToken",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/users/updateFCMToken",0,null))
 l=$.h.m()
 l.toString
 m.saQ(0,B.k.a8(A.z(["user_id",A.o(q).i("A.T?").a(l).z,"device_id",q.c,"fcm_token",q.d],o,t.K)))
@@ -53614,7 +53614,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/create",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/create",0,null))
 k=A.Q(k,t.z)
 m=$.h.m()
 m.toString
@@ -53663,7 +53663,7 @@ p=A.o(q).i("A.T?")
 p.a(k).bP=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getUserOpenTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getUserOpenTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -53708,7 +53708,7 @@ p=A.o(q).i("A.T?")
 p.a(k).dL=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getUserClosedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getUserClosedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -53764,7 +53764,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/ticket/getTechnicianDetails",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getTechnicianDetails",0,null))
 l=q.a
 m.saQ(0,B.k.a8(A.z(["user_id",l.b.a.a,"ticket_id",l.a],o,t.S)))
 m.r.I(0,n)
@@ -53824,7 +53824,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.z(["Content-Type","application/json"],o,o)
-m=A.bb("POST",A.aW("http://localhost:8000/ticket/getControllerDetails",0,null))
+m=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getControllerDetails",0,null))
 l=q.a
 m.saQ(0,B.k.a8(A.z(["user_id",l.b.a.a,"ticket_id",l.a],o,t.S)))
 m.r.I(0,n)
@@ -53873,7 +53873,7 @@ p=A.o(q).i("A.T?")
 p.a(k).C=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getTicketJourney",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getTicketJourney",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.c],k,t.S)))
@@ -53918,7 +53918,7 @@ p=A.o(q).i("A.T?")
 p.a(k).a5=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getTicketComments",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getTicketComments",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.c],k,t.S)))
@@ -53963,7 +53963,7 @@ p=A.o(q).i("A.T?")
 p.a(j)
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/postComment",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/postComment",0,null))
 m=$.h.m()
 m.toString
 l=q.d
@@ -53996,7 +53996,7 @@ p=A.o(q).i("A.T?")
 p.a(j).bi=!0
 j=t.N
 o=A.z(["Content-Type","application/json"],j,j)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getTicketCompleteDetails",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getTicketCompleteDetails",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.c],j,t.S)))
@@ -54032,7 +54032,7 @@ p=A.o(q).i("A.T?")
 p.a(k).c0=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/controller/getUnassignedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/controller/getUnassignedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"branch_id",q.c],k,t.S)))
@@ -54077,7 +54077,7 @@ p=A.o(q).i("A.T?")
 p.a(k).cO=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/controller/getAssignedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/controller/getAssignedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"branch_id",q.c],k,t.S)))
@@ -54122,7 +54122,7 @@ p=A.o(q).i("A.T?")
 p.a(k).eg=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/controller/getClosedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/controller/getClosedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"branch_id",q.c],k,t.S)))
@@ -54167,7 +54167,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/controller/assignTicket",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/controller/assignTicket",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.d,"technician_id",q.e,"response_text",q.c],k,t.K)))
@@ -54201,7 +54201,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/controller/resendApproval",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/controller/resendApproval",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.d,"response_text",q.c],k,t.K)))
@@ -54235,7 +54235,7 @@ p=A.o(q).i("A.T?")
 p.a(k).eq=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/technician/getDueTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/getDueTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54280,7 +54280,7 @@ p=A.o(q).i("A.T?")
 p.a(k).ds=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/technician/getOpenTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/getOpenTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54325,7 +54325,7 @@ p=A.o(q).i("A.T?")
 p.a(k).cI=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/technician/getHoldTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/getHoldTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54370,7 +54370,7 @@ p=A.o(q).i("A.T?")
 p.a(k).er=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/technician/getClosedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/getClosedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54415,7 +54415,7 @@ p=A.o(q).i("A.T?")
 p.a(k).fM=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/ticket/getApprovalDetails",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getApprovalDetails",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.c],k,t.S)))
@@ -54460,7 +54460,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/technician/updateStatus",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/updateStatus",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.e,"status",q.d,"require_approval",q.f,"approver_id",q.r,"response_text",q.c],k,t.K)))
@@ -54503,7 +54503,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/technician/giveResponse",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/technician/giveResponse",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.e,"status",q.d,"response_text",q.c],k,t.K)))
@@ -54545,7 +54545,7 @@ p=A.o(q).i("A.T?")
 p.a(k).eO=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/teamLeader/getDueTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/teamLeader/getDueTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54591,7 +54591,7 @@ p=A.o(q).i("A.T?")
 p.a(k).kw=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/teamLeader/getOpenTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/teamLeader/getOpenTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54636,7 +54636,7 @@ p=A.o(q).i("A.T?")
 p.a(k).jD=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/teamLeader/getHoldTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/teamLeader/getHoldTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54681,7 +54681,7 @@ p=A.o(q).i("A.T?")
 p.a(k).v4=!0
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("POST",A.aW("http://localhost:8000/teamLeader/getClosedTickets",0,null))
+n=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/teamLeader/getClosedTickets",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a],k,t.S)))
@@ -54726,7 +54726,7 @@ p=A.o(q).i("A.T?")
 p.a(k)
 k=t.N
 o=A.z(["Content-Type","application/json"],k,k)
-n=A.bb("PATCH",A.aW("http://localhost:8000/ticket/approveTicket",0,null))
+n=A.bb("PATCH",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/approveTicket",0,null))
 m=$.h.m()
 m.toString
 n.saQ(0,B.k.a8(A.z(["user_id",p.a(m).a.a,"ticket_id",q.e,"approval_status",q.d,"response_text",q.c],k,t.K)))
@@ -54777,7 +54777,7 @@ $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l,k,j,i,h,g,f
 var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:n=t.N
 m=A.z(["Content-Type","application/json"],n,n)
-l=A.bb("POST",A.aW("http://localhost:8000/ticket/getTicketEstimatedDeadlines",0,null))
+l=A.bb("POST",A.aW("https://assistbloom-api-app-r3m9k.ondigitalocean.app/ticket/getTicketEstimatedDeadlines",0,null))
 k=q.a
 l.saQ(0,B.k.a8(A.z(["user_id",k.b.a.a,"ticket_id",k.a],n,t.S)))
 l.r.I(0,m)
@@ -106908,7 +106908,7 @@ B.fL=new A.ks(4,"paused")
 B.BV=new A.zK(0,"disabled")
 B.BW=new A.zK(1,"enabled")
 B.jh=new A.zK(2,"notSupported")
-B.BX=new A.a6q(2,"appAttest")
+B.BX=new A.a6q(1,"deviceCheck")
 B.BY=new A.uc(0,"always")
 B.BZ=new A.uc(1,"never")
 B.my=new A.uc(2,"notSupported")
