@@ -68224,7 +68224,7 @@ p=A.H(10)
 n=A.ak(252,255,255,255)
 m=A.b2(B.m,0.5)
 l=t.p
-return A.ei(B.bO,A.a([A.dz(A.b2g(s,A.r(A.a([r,q,o,A.v(k,A.R(A.a([A.v(k,A.b3b("assets/assist.png",B.l_,k,k),B.i,k,k,k,k,50,k,k,k,k,k,k),A.j(k,50,k),new A.am(B.x,new A.am(B.x,A.d("Company Domain",k,k,k,$.q0().aa(new A.u(4287673054),B.p),k,k,k),k),k),A.j(k,8,k),new A.b_(new A.aJF(this,j),B.a1c,k,t.u)],l),B.u,B.e,B.D),B.i,k,k,new A.ax(n,k,m,p,k,k,B.w),k,400,k,k,B.cC,k,k,400)],l),B.f,B.e,B.d,k),B.bY),k,k)],l),B.a5,B.aQ,k)}}
+return A.ei(B.bO,A.a([A.dz(A.b2g(s,A.r(A.a([r,q,o,A.v(k,A.R(A.a([A.v(k,A.b3b("assets/assistlogo.png",B.l_,k,k),B.i,k,k,k,k,50,k,k,k,k,k,k),A.j(k,50,k),new A.am(B.x,new A.am(B.x,A.d("Company Domain",k,k,k,$.q0().aa(new A.u(4287673054),B.p),k,k,k),k),k),A.j(k,8,k),new A.b_(new A.aJF(this,j),B.a1c,k,t.u)],l),B.u,B.e,B.D),B.i,k,k,new A.ax(n,k,m,p,k,k,B.w),k,400,k,k,B.cC,k,k,400)],l),B.f,B.e,B.d,k),B.bY),k,k)],l),B.a5,B.aQ,k)}}
 A.aJF.prototype={
 $3(a,b,c){var s,r,q,p,o,n,m,l,k,j,i=null
 if(this.b.oI)s=new A.c0(i)
